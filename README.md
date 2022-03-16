@@ -47,7 +47,10 @@
 また、そのお店の服を着たコーデ写真を投稿し、いいねをもらう>
 
 ## 設計書
-<合格後作成>
+・詳細設計書
+https://docs.google.com/spreadsheets/d/16sC3ezgLjdLlU9rAB8fbA0Eyy3eJpFre72mhZNTtwCA/edit#gid=769994837
+・テーブル定義書
+https://docs.google.com/spreadsheets/d/17eb69o_5JexOceKlIdjPO3Fr6xvUqDcBb9AlENqI8CU/edit#gid=131071484
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1U_bMwQ5_n1CPH8GmlwVR2WORR5hc7B50HyoEI2ITdzg/edit#gid=0>
