@@ -23,10 +23,6 @@ Rails.application.routes.draw do
     registrations: 'admins/registrations'
   }
   
-  scope module: :admin do
-    root 'homes#top'
-  end
-
   namespace :admin do
     root 'homes#top'
   end
