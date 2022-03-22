@@ -7,3 +7,8 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Admin.create( email: 'test@test.com', password: 'itsuki0208' )
+
+Member.create( email: 'greenday0208@gmail.com', password: 'itsuki0208' )
+Member.create( email: 'misaki@misaki.com', password: 'misaki0927' )
+Member.create( email: 'member@member.com', password: 'member0111' )
+Member.create( email: 'member2@member2.com', password: 'member2222' )
